@@ -10,20 +10,6 @@
           <include name="closeAPP"/>
         </methods>
       </class> <!-- scripts.Testcase2 -->
-      <class name="scripts.Testacse3">
-        <methods>
-          <include name="tc3"/>
-          <include name="openApp"/>
-          <include name="closeAPP"/>
-        </methods>
-      </class> <!-- scripts.Testacse3 -->
-      <class name="scripts.Testcase1">
-        <methods>
-          <include name="tc1"/>
-          <include name="openApp"/>
-          <include name="closeAPP"/>
-        </methods>
-      </class> <!-- scripts.Testcase1 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
